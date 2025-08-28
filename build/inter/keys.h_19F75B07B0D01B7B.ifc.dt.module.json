@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\inter\\keys.obj",
+            "outputs": [
+                ".\\build\\inter\\keys.h_19F75B07B0D01B7B.ifc.dt.module.json",
+                ".\\build\\inter\\keys.h_19F75B07B0D01B7B.ifc.dt.d.json",
+                ".\\build\\inter\\keys.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\jase\\source\\repos\\trigger_bot\\src\\offsets\\keys.h",
+                    "source-path": "c:\\users\\jase\\source\\repos\\trigger_bot\\src\\offsets\\keys.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

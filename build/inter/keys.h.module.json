@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\inter\\keys.h.obj",
+            "outputs": [
+                "C:\\Users\\jase\\source\\repos\\trigger_bot\\build\\inter\\vc143.pdb",
+                ".\\build\\inter\\",
+                "C:\\Users\\jase\\source\\repos\\trigger_bot\\build\\inter\\keys.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "src\\offsets\\keys.h",
+                    "source-path": "c:\\users\\jase\\source\\repos\\trigger_bot\\src\\offsets\\keys.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

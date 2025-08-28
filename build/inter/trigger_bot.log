@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(519,5): warning MSB8004: каталог Intermediate заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Intermediate.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  Проверка источников на наличие зависимостей модуля…
+  main.cpp
+C:\Users\jase\source\repos\trigger_bot\src\memory\memory.h(31,84): warning C4244: аргумент: преобразование "uintptr_t" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "src/cheat/main.cpp")
+  
+C:\Users\jase\source\repos\trigger_bot\src\memory\memory.h(51,110): warning C4244: аргумент: преобразование "const uintptr_t" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "src/cheat/main.cpp")
+  
+  trigger_bot.vcxproj -> C:\Users\jase\source\repos\trigger_bot\build\trigger_bot.exe
